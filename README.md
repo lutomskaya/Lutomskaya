@@ -1,7 +1,6 @@
 ### Лютомская Анна Алексеевна
-## Начинающий фронтенд-разработчик
+# Начинающий фронтенд-разработчик
 
-# Мои контакты
+# Контакты
 <a href="https://github.com/lutomskaya">github</a>
-
 <a href="https://t.me/lutomskaya">telegram</a>
