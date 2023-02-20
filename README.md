@@ -21,4 +21,4 @@
 
 <a href="https://lutomskaya.github.io/gllacy/">Gllacy</a>
 
-<a href="https://lutomskaya.github.io/sedona//">«Седона»</a>
+<a href="https://lutomskaya.github.io/sedona//">Седона</a>
