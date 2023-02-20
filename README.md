@@ -9,6 +9,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="Telegram" width="50px">  
 </a>
 
+### Навыки
+HTML5, CSS, SCSS, JS, Gulp, Figma, Adobe Photoshop
+
 ### Проекты
 <a href="https://lutomskaya.github.io/fitness-center/">Фитнес-центр SUPERGYM</a>
 
