@@ -7,4 +7,4 @@
 <a href="https://t.me/lutomskaya">telegram</a>
 
 ### Проекты
-<a href="lutomskaya.github.io/fitness-center/">Фитнес-центр SUPERGYM</a>
+<a href="https://lutomskaya.github.io/fitness-center/">Фитнес-центр SUPERGYM</a>
