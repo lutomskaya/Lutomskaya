@@ -10,7 +10,7 @@
 </a>
 
 ### Навыки
-HTML5, CSS, SCSS, JS, Gulp, Figma, Adobe Photoshop
+HTML5, CSS, SCSS, JS (базовый), Gulp, Figma, Adobe Photoshop
 
 ### Проекты
 <a href="https://lutomskaya.github.io/fitness-center/">Фитнес-центр SUPERGYM</a>
