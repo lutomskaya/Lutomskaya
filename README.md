@@ -3,7 +3,7 @@
 
 ### Контакты
 <a href="https://github.com/lutomskaya">
-<img src="https://www.flaticon.com/ru/free-icon/github_5968866">  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png">  
 </a>
 
 <a href="https://t.me/lutomskaya"></a>
