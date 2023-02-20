@@ -8,7 +8,7 @@
 
 ### Проекты
 <a href="https://lutomskaya.github.io/fitness-center/">Фитнес-центр SUPERGYM</a>
-<a href="https://github.com/lutomskaya/fitness-center">Сайт фитнес-центра</a>
+<p>Сайт фитнес-центра</p>
 
 <a href="https://lutomskaya.github.io/Cruise-to-Antarctica/">Круизы в Антарктику</a>
 <a href="https://github.com/lutomskaya/Cruise-to-Antarctica">Туристический проект "Круизы в Антарктику"</a>
