@@ -1,5 +1,5 @@
 # Лютомская Анна Алексеевна
-## Начинающий фронтенд-разработчик
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Начинающий+фронтенд-разработчик](https://git.io/typing-svg)
 
 ### Контакты
 <a href="https://github.com/lutomskaya">
