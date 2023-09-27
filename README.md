@@ -4,13 +4,13 @@
 
 ### Контакты
 <a href="https://github.com/lutomskaya">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="50px">  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="60px">  
 </a>
 <a href="mailto:lutomskaya@gmail.com">
-<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/> 
+<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60px"/> 
 </a>
 <a href="mailto:lutomskaya@gmail.com">
-[<img src="https://icons8.com/icon/ymzccwMmNkRx/telegram" alt="telegram"/>
+[<img src="https://icons8.com/icon/ymzccwMmNkRx/telegram.png" alt="telegram" width="60px"/>
 </a>
 
 
