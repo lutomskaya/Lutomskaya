@@ -7,7 +7,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="50px">  
 </a>
 <a href="lutomskaya@gmail.com">
-![image](https://github.com/lutomskaya/Lutomskaya/assets/36851224/2afa8263-3315-432e-9c50-a20e439f3556)
+<img src="https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo" alt="Gmail" width="50px"
 </a>
 
 ### Навыки
