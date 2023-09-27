@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60px"/> 
 </a>
 <a href="https://t.me/lutomskaya">
-<img src="https://e7.pngegg.com/pngimages/1022/477/png-clipart-telegram-telegram.png" alt="telegram" width="60px"/>
+<img src="https://e7.pngegg.com/pngimages/98/1001/png-clipart-computer-icons-scalable-graphics-blue-youtube-icon-ico-computer-icons-telegram.png" alt="telegram" width="60px"/>
 </a>
 
 
