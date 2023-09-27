@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60px"/> 
 </a>
 <a href="https://t.me/lutomskaya">
-<img src="https://phonoteka.org/uploads/posts/2023-03/1679905946_phonoteka-org-p-telegramm-znachok-oboi-instagram-35.png" alt="telegram" width="60px"/>
+<img src="https://library.kissclipart.com/20191123/gxq/kissclipart-social-media-icon-telegram-icon-ca18ad66682233eb.png" alt="telegram" width="60px"/>
 </a>
 
 
