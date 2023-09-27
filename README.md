@@ -6,8 +6,8 @@
 <a href="https://github.com/lutomskaya">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="50px">  
 </a>
-<a href="lutomskaya@gmail.com">
-<img src="https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo" alt="Gmail" width="50px"
+<a href="https://lutomskaya@gmail.com">
+<img src="https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo" alt="Gmail" width="50px">
 </a>
 
 ### Навыки
