@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=6562F7&background=FFC1E300&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
-<html><h3 style="color:#7398F7"Контакты</h3></html>
+### Контакты
 <a href="https://github.com/lutomskaya">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="60px">  
 </a>
@@ -14,7 +14,7 @@
 </a>
 
 
-### Навыки
+#hexhex ### Навыки
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> 
