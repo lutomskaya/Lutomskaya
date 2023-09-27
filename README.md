@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Лютомская%20Анна%20Алексеевна&animation=fadeIn&fontColor=7398F7FF&stroke=000000&fontSize=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=6562F7&background=FFC1E300&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
@@ -9,6 +12,7 @@
 <a href="mailto:lutomskaya@gmail.com">
 <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/> 
 </a>
+
 
 ### Навыки
 <p align="left">
