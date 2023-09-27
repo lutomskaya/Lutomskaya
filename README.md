@@ -32,9 +32,10 @@
 | <a href="https://github.com/lutomskaya/fitness-center"> Фитнес-центр SUPERGYM </a> |<a href="https://lutomskaya.github.io/fitness-center/">Сайт фитнес центра</a>||
 | <a href="https://github.com/lutomskaya/Cruise-to-Antarctica"> Круизы в Антарктику </a> |<a href="https://lutomskaya.github.io/Cruise-to-Antarctica/">Сайт туристического проекта “Круизы в Антарктику”.</a>||
 | <a href="https://github.com/lutomskaya/Smart-Device"> Smart Device </a> |<a href="https://lutomskaya.github.io/Smart-Device/">Веб-сайт компании, поставляющей электронные компоненты.</a>||
-| <a href="https://github.com/lutomskaya/kekstagram"> acidvegas</a> |<a href="https://lutomskaya.github.io/kekstagram/">Кекстаграм — сервис просмотра изображений.</a>|
-| <a href="https://github.com/lutomskaya/pognali"> MoroccanTea</a> |<a href="https://lutomskaya.github.io/pognali/">Сервис для поиска попутчиков для путешествий</a>||
-| <a href="https://github.com/lutomskaya/device"> GetmeV8</a> |<a href="https://lutomskaya.github.io/device//">Интернет-магазин гаджетов</a>||
+| <a href="https://github.com/lutomskaya/Drink2Go"> Drink2Go </a> |<a href="https://lutomskaya.github.io/Drink2Go/">Drink2Go - это интернет-магазин кофейных напитков.</a>|
+| <a href="https://github.com/lutomskaya/kekstagram"> Kekstagram </a> |<a href="https://lutomskaya.github.io/kekstagram/">Кекстаграм — сервис просмотра изображений.</a>|
+| <a href="https://github.com/lutomskaya/pognali"> Погнали </a> |<a href="https://lutomskaya.github.io/pognali/">Сервис для поиска попутчиков для путешествий</a>||
+| <a href="https://github.com/lutomskaya/device"> Device </a> |<a href="https://lutomskaya.github.io/device//">Интернет-магазин гаджетов</a>||
 | <a href="https://github.com/lutomskaya/gllacy"> Gllacy </a> |<a href="https://lutomskaya.github.io/gllacy/">Интернет-магазин мороженого</a>||
 | <a href="https://github.com/lutomskaya/sedona"> Sedona </a> |<a href="https://lutomskaya.github.io/sedona//">Сайт туристического городка в штате Аризона</a>||
 
