@@ -6,9 +6,8 @@
 <a href="https://github.com/lutomskaya">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" width="50px">  
 </a>
-<a href="https://lutomskaya@gmail.com">
-<img src="https://icon-icons.com/ru/значок/файл-тип-фотошоп/130268" alt="Github" width="50px"> 
-
+<a href="mailto:lutomskaya@gmail.com">
+<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/> 
 </a>
 
 ### Навыки
