@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60px"/> 
 </a>
 <a href="mailto:lutomskaya@gmail.com">
-<img src="https://icons8.com/icon/ymzccwMmNkRx/telegram" alt="telegram" width="60px"/>
+<img src="https://static.tildacdn.com/tild3439-6535-4661-a539-613662396635/Telegram_2.png" alt="telegram" width="60px"/>
 </a>
 
 
