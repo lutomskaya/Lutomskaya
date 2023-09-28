@@ -31,7 +31,7 @@
 ### Проекты
 
 | Проект | Ссылка | 
-|---|---|---|
+|---|---|
 | <a href="https://github.com/lutomskaya/fitness-center"> Фитнес-центр SUPERGYM </a> |<a href="https://lutomskaya.github.io/fitness-center/">Сайт фитнес центра</a>|
 | <a href="https://github.com/lutomskaya/Cruise-to-Antarctica"> Круизы в Антарктику </a> |<a href="https://lutomskaya.github.io/Cruise-to-Antarctica/">Сайт туристического проекта “Круизы в Антарктику”.</a>|
 | <a href="https://github.com/lutomskaya/Smart-Device"> Smart Device </a> |<a href="https://lutomskaya.github.io/Smart-Device/">Веб-сайт компании, поставляющей электронные компоненты.</a>|
