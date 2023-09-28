@@ -25,6 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>       
 </p>
 
+<p align="left">
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)      
+</p>
+
 ### Проекты
 
 | Проект | Ссылка | Описание |
