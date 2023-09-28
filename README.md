@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Лютомская%20Анна%20Алексеевна&animation=fadeIn&fontColor=7398F7FF&stroke=000000&fontSize=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=6562F7&background=FFC1E300&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7398F7&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
 ### Контакты
 <a href="https://github.com/lutomskaya">
@@ -36,6 +36,7 @@
 | <a href="https://github.com/lutomskaya/kekstagram"> Kekstagram </a> |<a href="https://lutomskaya.github.io/kekstagram/">Кекстаграм — сервис просмотра изображений.</a>|
 | <a href="https://github.com/lutomskaya/pognali"> Погнали </a> |<a href="https://lutomskaya.github.io/pognali/">Сервис для поиска попутчиков для путешествий</a>||
 | <a href="https://github.com/lutomskaya/device"> Device </a> |<a href="https://lutomskaya.github.io/device//">Интернет-магазин гаджетов</a>||
+| <a href="https://github.com/lutomskaya/mishka"> Мишка </a> |<a href="https://lutomskaya.github.io/mishka/">Интернет-магазин игрушек ручной работы</a>||
 | <a href="https://github.com/lutomskaya/gllacy"> Gllacy </a> |<a href="https://lutomskaya.github.io/gllacy/">Интернет-магазин мороженого</a>||
 | <a href="https://github.com/lutomskaya/sedona"> Sedona </a> |<a href="https://lutomskaya.github.io/sedona//">Сайт туристического городка в штате Аризона</a>||
 
