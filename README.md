@@ -13,6 +13,13 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
+<p>
+•	Frontend разработчик с 1 годом коммерческого опыта в создании веб-сайтов при помощи JavaScript, HTML, CSS. 
+•	Умение создавать адаптивную кросс-браузерную оптимизированную вёрстку, совместимую с современными браузерами. Навыки работы с препроцессором Sass, БЭМ, PUG. 
+•	Умение автоматизировать работу с помощью Node.js, npm-скриптов, Gulp или Webрасk. 
+•	Уверенное владение Figma и Photoshop. 
+</p>
+
 
 ### Навыки
 
